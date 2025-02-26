@@ -1,0 +1,12 @@
+---
+layout:       post
+title:        "try"
+author:       "great beard"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+try
